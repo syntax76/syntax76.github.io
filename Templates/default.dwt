@@ -8,23 +8,18 @@
 <style type="text/css" media="all">
 @import url("/style/default.css");
 </style>
+<style type="text/css" media="screen">
+@import url("/style/screen.css");
+</style>
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 <!-- TemplateParam name="subpage_headline" type="boolean" value="true" -->
 </head>
 
 <body>
-<h1>syntax76@GitHub<!-- TemplateBeginIf cond="subpage_headline" --> - <!-- TemplateBeginEditable name="headlineAddOn" -->subpage headline<!-- TemplateEndEditable --><!-- TemplateEndIf --></h1>
-<!-- TemplateBeginEditable name="content" -->
-<p>First try of my GitHub Page.</p>
-<h2>About me</h2>
-<p>Why i call my self here 'syntax' is quite easy: while studdying computer science, i was called in the beginning 'syntax error' what wasn't so fine... </p>
-<p>Lateron just 'syntax' was fine :)<br />
-  So guess what the 76 is for ;) - ok i could have used '1001100', '4C' or '24' as well... base 2, base 16 everyone usually knows - what's with base 36? :)</p>
-<p>Current public gits:</p>
-<ul>
-  <li>no public one</li>
-</ul>
-<!-- TemplateEndEditable -->
+<div id="headline">syntax76@GitHub<!-- TemplateBeginIf cond="subpage_headline" --> - <!-- TemplateBeginEditable name="headlineAddOn" -->subpage headline<!-- TemplateEndEditable --><!-- TemplateEndIf --></div>
+<div id="content"><!-- TemplateBeginEditable name="content" -->
+<p>content</p>
+<!-- TemplateEndEditable --></div>
 </body>
 </html>
