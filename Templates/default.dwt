@@ -18,6 +18,14 @@
 
 <body>
 <div id="headline">syntax76@GitHub<!-- TemplateBeginIf cond="subpage_headline" --> - <!-- TemplateBeginEditable name="headlineAddOn" -->subpage headline<!-- TemplateEndEditable --><!-- TemplateEndIf --></div>
+<div id="nav">
+<ul>
+<li class="navItem"><a href="/index.html">Start</a></li>
+<li class="navItem">Gits</li>
+<li class="navItem">Repositorys</li>
+<li class="navInfoItem">Links</li>
+</ul>
+</div>
 <div id="content"><!-- TemplateBeginEditable name="content" -->
 <p>content</p>
 <!-- TemplateEndEditable --></div>

@@ -43,3 +43,23 @@ body {
 	text-decoration: underline;
 	color: #96C;
 }
+
+#nav ul {
+	
+	list-style-type: none;
+}
+
+.navItem, .navInfoItem {
+	font-size: 11pt;
+	font-weight: bold;
+}
+
+.navItem a:link, .navItem a:visited {
+	text-decoration: none;
+	color: #CFC;
+}
+
+.navItem a:active, .navItem a:hover {
+	text-decoration: none;
+	color: #C00;
+}
