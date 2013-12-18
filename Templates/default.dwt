@@ -21,8 +21,8 @@
 <div id="nav">
 <ul>
 <li class="navItem"><a href="/index.html">Start</a></li>
-<li class="navItem">Gits</li>
-<li class="navItem">Repositorys</li>
+<li class="navItem"><a href="/gits.html">Gits</a></li>
+<li class="navItem"><a href="/repositorys.html">Repositorys</a></li>
 <li class="navInfoItem">Links</li>
 </ul>
 </div>
