@@ -23,7 +23,7 @@
 <li class="navItem"><a href="/index.html" title="Start Page">Start</a></li>
 <li class="navItem"><a href="/gists.html" title="Gists">Gists</a></li>
 <li class="navItem"><a href="/repositorys.html" title="Public Repositorys">Repositorys</a></li>
-<li class="navInfoItem">Links</li>
+<li class="navInfoItem"><a href="/links.html" title="Links">Links</a></li>
 </ul>
 </div>
 <div id="content"><!-- TemplateBeginEditable name="content" -->
